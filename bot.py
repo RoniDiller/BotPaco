@@ -17,7 +17,7 @@ BOT_TOKEN = "7588249087:AAG1kbYmKf0RkX7cpO1fT5K1Fb9UDs5QM-4"
 
 API_ID = 32775998
 API_HASH = "60a5003072ed6c8dedbf8d4efba97425"
-SESSION_NAME = "paco"
+SESSION_NAME = "paco1.session"
 
 # === Конфигурация рассылки ===
 class SpamConfig:
